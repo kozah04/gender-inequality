@@ -1,0 +1,21 @@
+name: gender-inequality
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - jupyter
+  - ipykernel
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - pyarrow
+  - requests
+  - pip
+  - pip:
+      - wbgapi        
+      - scipy         
+      - statsmodels   
+      - pingouin      
+      - linearmodels  
