@@ -6,7 +6,7 @@ Statistical analysis of gender gaps in educational attainment, labour force part
 
 - RQ1: Is there a statistically significant gender gap in educational attainment across African countries and selected comparators, and has it narrowed over time?
 - RQ2: Does the gender gap in labour force participation differ significantly across African regions and income groups, and what does the trend look like over the last three decades?
-- RQ3: Does gender predict wage outcomes when controlling for education level and employment sector, and does the gender wage gap vary by education level?
+- RQ3: Does gender predict wage outcomes when controlling for education parity and employment sector? Estimated on pooled observations with country fixed effects and robust standard errors, interpreted as exploratory given sparse African wage coverage.
 - RQ4: Does progress in closing the education gender gap predict a corresponding reduction in the labour force participation gap across countries?
 
 ## Data Sources
