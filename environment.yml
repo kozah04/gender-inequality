@@ -14,9 +14,10 @@ dependencies:
   - requests
   - pip
   - pip:
-      - wbgapi        
-      - scipy         
-      - statsmodels   
-      - pingouin      
-      - linearmodels  
-      - plotly 
+      - wbgapi
+      - scipy
+      - statsmodels
+      - pingouin
+      - linearmodels
+      - plotly
+      - nbformat
